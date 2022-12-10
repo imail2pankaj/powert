@@ -28,7 +28,7 @@ export default function About() {
               Signal Design.
             </p>
             <p className='primary-text block'>
-              NpowerT’s prudent roadmap aligns with long-term <br className="hidden md:block" />
+              NpowerT's prudent roadmap aligns with long-term <br className="hidden md:block" />
               collaboration with our extreme customer base with <br className="hidden md:block" />
               continuous promotion of growth and triumph.
             </p>
