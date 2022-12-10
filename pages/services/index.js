@@ -20,10 +20,10 @@ export default function Services() {
               NpowerT specializes in end - to - end services from RTL to GDS-II <br className="hidden lg:block" />by leveraging industry standard EDA tools and flows.
             </p>
             <p className='primary-text block mb-4'>
-              NpowerT team&rsquo;s core target is to secure our customers with <br className="hidden lg:block" />lesser time to market where designs can briskly skim <br className="hidden lg:block" />through foundry-specific guidelines further avoiding <br className="hidden lg:block" />multiple iterations.
+              NpowerT teams core target is to secure our customers with <br className="hidden lg:block" />lesser time to market where designs can briskly skim <br className="hidden lg:block" />through foundry-specific guidelines further avoiding <br className="hidden lg:block" />multiple iterations.
             </p>
             <p className='primary-text block mb-4'>
-              npowert's core expertise is our strength in successfully <br className="hidden lg:block" />executing lower technology nodes like 3nm, 5nm, 7nm etc. Our <br className="hidden lg:block" />team of domain experts at npowert ensure to achieve the <br className="hidden lg:block" />optimistic power, performance, and area targets for a particular <br className="hidden lg:block" />design.
+              npowerts core expertise is our strength in successfully <br className="hidden lg:block" />executing lower technology nodes like 3nm, 5nm, 7nm etc. Our <br className="hidden lg:block" />team of domain experts at npowert ensure to achieve the <br className="hidden lg:block" />optimistic power, performance, and area targets for a particular <br className="hidden lg:block" />design.
             </p>
           </div>
           <div className='my-2'>

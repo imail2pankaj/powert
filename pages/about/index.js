@@ -28,13 +28,13 @@ export default function About() {
               Signal Design.
             </p>
             <p className="primary-text block">
-              NpowerT&rsquo;s prudent roadmap aligns with long-term <br className="hidden md:block" />
+              NpowerTs prudent roadmap aligns with long-term <br className="hidden md:block" />
               collaboration with our extreme customer base with <br className="hidden md:block" />
               continuous promotion of growth and triumph.
             </p>
           </div>
           <div className=" text-center pr-0 lg:pr-[120px] pb-4 flex-2">
-            <Image src="/images/about-bg.png" width={550} height={550} />
+            <Image src="/images/about-bg.png" width={550} alt={"about"} height={550} />
           </div>
         </div>
       </Container>
