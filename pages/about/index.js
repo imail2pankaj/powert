@@ -14,21 +14,21 @@ export default function About() {
 
       <Container>
         <div className="flex flex-col-reverse md:flex-row justify-between gap-6">
-          <div className='my-16'>
-            <h1 className='text-4-5xl font-bold mb-2'>
+          <div className="my-16">
+            <h1 className="text-4-5xl font-bold mb-2">
               Nanopowered <br />Technologies
             </h1>
             <p className='font-medium block mb-8'>
               Empowering Silicon with Digital<br /> and Analog Brains
             </p>
-            <p className='primary-text block mb-4'>
+            <p className="primary-text block mb-4">
               Nanopowered Technologies is a global semiconductor <br className="hidden md:block" />
               services provider with highly skilled resources in <br className="hidden md:block" />
               Analog and Digital ASIC from RTL to GDS-II and Mixed <br className="hidden md:block" />
               Signal Design.
             </p>
-            <p className='primary-text block'>
-              NpowerT's prudent roadmap aligns with long-term <br className="hidden md:block" />
+            <p className="primary-text block">
+              NpowerT&rsquo;s prudent roadmap aligns with long-term <br className="hidden md:block" />
               collaboration with our extreme customer base with <br className="hidden md:block" />
               continuous promotion of growth and triumph.
             </p>
