@@ -4,12 +4,10 @@ module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
+    "./containers/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
-      maxWidth: {
-        '1280': '1280px',
-      },
       backgroundColor: {
         primary: "#0D1025",
         "learn-more": "#5BC29F",
