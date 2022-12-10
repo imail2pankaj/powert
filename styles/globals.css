@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  margin: 0;
+  padding: 0;
+  --primary-bg-color: #0D1025;
+  --primary-color: #D2D2D2;
+  color: #FFF;
+}
+
+.primary-text {
+  color: var(--primary-color);
+}
+
+p {
+  /* font-size: 1rem; */
+}
