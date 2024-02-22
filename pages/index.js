@@ -31,7 +31,7 @@ export default function Home() {
             </div>
           </div>
           <div className=" flex items-center justify-end">
-            <Image src="/images/home-bg.png" width={550} height={550} />
+            <Image src="/images/home-bg.png" alt="Banner image" width={550} height={550} />
           </div>
         </div>
       </Container>
